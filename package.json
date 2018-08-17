@@ -1,0 +1,14 @@
+{
+  "name": "huayihengxin",
+  "version": "1.0.0",
+  "description": "华羿恒信介绍",
+  "main": "gulpfile.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "leijie",
+  "license": "ISC",
+  "devDependencies": {
+    "gulp": "github:gulpjs/gulp#4.0"
+  }
+}
